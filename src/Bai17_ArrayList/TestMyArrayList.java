@@ -43,6 +43,8 @@ public class TestMyArrayList {
 			System.out.println(myArrayListPerson1.get(i));
 		}
 
+//		System.out.println(myArrayListPerson1);
+
 		System.out.println("index : " + myArrayListPerson2.contains(new Person("Duong 4", 18)));
 	}
 
